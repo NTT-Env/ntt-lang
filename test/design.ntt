@@ -1,0 +1,12 @@
+
+(.arg name <type>)
+
+(...)
+
+(.var name <type>)
+
+(.function name ((.arg) ...) <return-type> ())
+
+(.type name <type>)
+
+(.def (...) )
